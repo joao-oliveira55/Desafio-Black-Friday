@@ -15,7 +15,7 @@ export default function Home() {
         <S.main >
             <S.sectionTop className="content-midlle">
                 <div className="banner-black-friday">
-                    <img src="/image/Black-Friday.png" />
+                    <img src="/image/Black-Friday.png" alt="imagem-promocional-black-friday" />
                 </div>
             </S.sectionTop>
 
@@ -24,13 +24,13 @@ export default function Home() {
             <S.sectionBottom className="content-bottom">
                 <div className="products">
                     <div className="product">
-                        <img src="/image/product_1.png" />
+                        <img src="/image/product_1.png" alt="imagem-de-produto-promocional" />
                     </div>
                     <div className="product">
-                        <img src="/image/product_2.png" />
+                        <img src="/image/product_2.png" alt="imagem-de-produto-promocional" />
                     </div>
                     <div className="product">
-                        <img src="/image/product_3.png" />
+                        <img src="/image/product_3.png" alt="imagem-de-produto-promocional" />
                     </div>
                 </div>
             </S.sectionBottom>
