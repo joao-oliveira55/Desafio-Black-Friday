@@ -14,4 +14,6 @@ Para iniciar em modo de desenvolvimento:
 
 Para instalar o node [clique aqui](https://nodejs.org/en/)
 
+Para acessar a página em produção [clique aqui](https://desafio-black-friday.netlify.app/)
+
 ## Desenvolvedor João Victor

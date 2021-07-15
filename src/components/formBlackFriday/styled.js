@@ -47,6 +47,11 @@ export const sectionMiddle = styled.section`
         text-align: center;
         color: #fff;
     }
+    span{
+        font-size: 20px;
+        margin-top: 20px;
+        color: white;
+    }
 
     @media screen and (max-width: 900px) {
         h1{
